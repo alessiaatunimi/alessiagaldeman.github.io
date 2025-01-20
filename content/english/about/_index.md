@@ -12,28 +12,21 @@ draft: false
 {{< /notice >}}
 
 
-{{< accordion "Awards" >}}
-- **Vasari Grant Winner** Research grant winner for Italian national project VASARI.
-- **Indaco Grant Winner** Grant of 2000 computing hours on Indaco HPC platform for project GERs_for_Web3.
-- **Best Lightning Presentation** Best Lightning Presentation at the 11th International Conference on Complex Networks and their Applications.
-- **Runner-up Bertalanffy Doctoral Student Award** Selected as one of the three nominees for the Bertalanffy Doctoral Student Award at the French Regional Conference on Complex Systems 2023.
-- **Runner-up Data Visualization Competition** Selected as one of the runner-up for the Data Visualization competition of the BUILD LAB at ITU Copenhagen.
-{{< /accordion >}}
+
 
 {{< accordion "Organization" >}}
 
 - **Co-founder** of MUSE-MI seminar series at University of Milan
-- **Collaborator** of NetPlace
+- **Collaborator** of [NetPlace](https://netplace.site "NetPlace's Homepage")
+- **Collaborator** of [CORE](https://complexity-core.github.io "CORE's Homepage")
 
 {{< /accordion >}}
 
-{{< accordion "Reviews" >}}
-
-- **Journals** EPJ Data Science, Machine Learning journal, Multimedia Tools and Applications journal, Computer Science Review Journal, Applied Network Science,IEEE Transactions on Artificial Intelligence Journal
-- **Conferences** WebSci, ICWSM, WebSci artifacts, WebSci Poster, NetSci, PerCom
-- **Workshops** BRAIN workshop at PerCom, LIMBO workshop at ECML-PKDD 2023, [MLH](https://mlh2024.di.unito.it/home "workshop website") workshop at ECML-PKDD 2024
-- **Runner-up Bertalanffy Doctoral Student Award** Selected as one of the three nominees for the Bertalanffy Doctoral Student Award at the French Regional Conference on Complex Systems 2023.
-- **Runner-up Data Visualization Competition** Selected as one of the runner-up for the Data Visualization competition of the BUILD LAB at ITU Copenhagen.
+{{< accordion "Editorial activites" >}}
+- **Guest editor** "[Evolution of Networks](https://link.springer.com/collections/jafdbbebcj)" special issue in Springer Nature Applied Network Science journal 
+- **Review for Journals** EPJ Data Science, Machine Learning journal, Multimedia Tools and Applications journal, Computer Science Review Journal, Applied Network Science,IEEE Transactions on Artificial Intelligence Journal, Journal of Complex Networks
+- **Review for Conferences** WebSci, ICWSM, NetSci, PerCom
+- **Review for Workshops** BRAIN workshop at PerCom, LIMBO workshop at ECML-PKDD 2023, [MLH](https://mlh2024.di.unito.it/home "workshop website") workshop at ECML-PKDD 2024
 
 {{< /accordion >}}
 
@@ -45,6 +38,13 @@ draft: false
 
 {{< /accordion >}}
 
+{{< accordion "Awards" >}}
+- **Vasari Grant Winner** Research grant winner for Italian national project VASARI.
+- **Indaco Grant Winner** Grant of 2000 computing hours on Indaco HPC platform for project GERs_for_Web3.
+- **Best Lightning Presentation** Best Lightning Presentation at the 11th International Conference on Complex Networks and their Applications.
+- **Runner-up Bertalanffy Doctoral Student Award** Selected as one of the three nominees for the Bertalanffy Doctoral Student Award at the French Regional Conference on Complex Systems 2023.
+- **Runner-up Data Visualization Competition** Selected as one of the runner-up for the Data Visualization competition of the BUILD LAB at ITU Copenhagen.
+{{< /accordion >}}
 ## Experience
 <br>
 {{< tabs >}}

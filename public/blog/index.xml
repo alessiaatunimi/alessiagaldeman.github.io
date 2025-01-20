@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/alessiagaldeman.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Multilayer Network Perspective on Customer Segmentation Through Cashless Payment Data</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/blog/dsaa21/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/blog/dsaa21/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Analyzing user migration in blockchain online social networks through network structure and discussion topics of communities on multilayer networks</title>
       <link>http://localhost:1313/alessiagaldeman.github.io/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
@@ -34,6 +41,34 @@
       <link>http://localhost:1313/alessiagaldeman.github.io/blog/post-5/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alessiagaldeman.github.io/blog/post-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unfolding temporal networks through statistically significant graph evolution rules.</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/blog/dsaa23/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/blog/dsaa23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User migration across web3 online social networks: behaviors and influence of hubs</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/blog/icc23/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/blog/icc23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User migration prediction in blockchain socioeconomic networks using graph neural networks</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/blog/goodit23/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/blog/goodit23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3 Social Platforms: Modeling, Mining and Evolution</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/blog/itadata/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/blog/itadata/</guid>
       <description></description>
     </item>
     <item>

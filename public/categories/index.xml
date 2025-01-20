@@ -9,17 +9,10 @@
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/alessiagaldeman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Architecture</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/categories/architecture/</link>
+      <title>Cooperative Behavior</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/categories/cooperative-behavior/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/categories/data/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/data/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/cooperative-behavior/</guid>
       <description></description>
     </item>
     <item>
@@ -30,17 +23,31 @@
       <description></description>
     </item>
     <item>
-      <title>Software</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/categories/software/</link>
+      <title>User Behavior</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/categories/user-behavior/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/software/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/user-behavior/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/categories/technology/</link>
+      <title>User Migration</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/categories/user-migration/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/technology/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/user-migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/categories/web3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computational Social Science</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/categories/computational-social-science/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/categories/computational-social-science/</guid>
       <description></description>
     </item>
   </channel>

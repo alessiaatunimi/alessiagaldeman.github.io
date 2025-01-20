@@ -9,10 +9,24 @@
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/alessiagaldeman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Communities</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/communities/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/communities/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Evolution</title>
       <link>http://localhost:1313/alessiagaldeman.github.io/tags/evolution/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alessiagaldeman.github.io/tags/evolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/financial/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/financial/</guid>
       <description></description>
     </item>
     <item>
@@ -23,31 +37,73 @@
       <description></description>
     </item>
     <item>
-      <title>Silicon</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/tags/silicon/</link>
+      <title>GNN</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/gnn/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/silicon/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/gnn/</guid>
       <description></description>
     </item>
     <item>
-      <title>Software</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/tags/software/</link>
+      <title>Hive</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/hive/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/software/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/hive/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tailwind</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/tags/tailwind/</link>
+      <title>Multilayer</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/multilayer/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/tailwind/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/multilayer/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/alessiagaldeman.github.io/tags/technology/</link>
+      <title>Sarafu</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/sarafu/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/technology/</guid>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/sarafu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steemit</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/steemit/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/steemit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporal</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/temporal/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/temporal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/web3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bipartite Graph</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/bipartite-graph/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/bipartite-graph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>City Profile</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/city-profile/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/city-profile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human Behavior</title>
+      <link>http://localhost:1313/alessiagaldeman.github.io/tags/human-behavior/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alessiagaldeman.github.io/tags/human-behavior/</guid>
       <description></description>
     </item>
   </channel>
