@@ -1,23 +1,13 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "City consumption profile: a city perspective on the spending behavior of citizen"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2021-01-01T00:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
-author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+categories: ["Computational social science"]
+link: https://doi.org/10.1007/s41109-021-00406-2
+author: "A. Galdeman,C. Ba,  M. Zignani, C. Quadri, S. Gaito"
+tags: ["bipartite graph", "city profile", "human behavior"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
