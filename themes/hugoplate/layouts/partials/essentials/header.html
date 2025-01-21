@@ -29,7 +29,7 @@
     <!-- main navbar -->
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      class="navbar-nav order-3 hidden lg:flex w-full lg:order-1 lg:w-auto lg:space-x-2 xl:space-x-8">
       {{ $currentPage := . }}
       {{ range site.Menus.main }}
         {{ $menuURL := .URL | absLangURL }}
@@ -95,14 +95,19 @@
           </li>
         {{ end }}
       {{ end }}
-      {{ if site.Params.navigation_button.enable }}
-        <li class="mt-4 inline-block lg:hidden">
-          <a
-            class="btn btn-outline-primary btn-sm"
-            href="{{ site.Params.navigation_button.link | relLangURL }}">
-            {{ site.Params.navigation_button.label }}
-          </a>
-        </li>
+      {{ range site.Data.social.main }}
+        {{ if .in_header }}
+          <li class="mt-2 mb-6 lg:hidden">
+            <a
+              class="btn btn-outline-primary btn-sm"
+              target="_blank"
+              aria-label="{{ .name }}"
+              rel="nofollow noopener"
+              href="{{ .link | safeURL }}">
+              <i class="{{ .icon }}"></i> {{ .action }}
+            </a>
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
 
@@ -111,7 +116,7 @@
         {{ if .enable }}
           <button
             aria-label="search"
-            {{ if and (not site.Params.navigation_button.enable) (not site.Params.theme_switcher)}}
+            {{ if (not site.Params.theme_switcher)}}
             class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r lg:border-r-0 pr-5 lg:pr-0 text-xl dark:text-white dark:hover:text-darkmode-primary"
             {{ else }}
             class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
@@ -122,18 +127,24 @@
         {{ end }}
       {{ end }}
 
-      {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-theme-light rounded") }}
-      {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
-
-
-      <!-- navigation btn -->
-      {{ if site.Params.navigation_button.enable }}
-        <a
-          href="{{ site.Params.navigation_button.link | relLangURL }}"
-          class="btn btn-outline-primary btn-sm hidden lg:inline-block">
-          {{ site.Params.navigation_button.label }}
-        </a>
+      {{ range site.Data.social.main }}
+        {{ if .in_header }}
+            <a
+              class="btn btn-outline-primary btn-sm hidden lg:inline-block lg:ml-5"
+              target="_blank"
+              aria-label="{{ .name }}"
+              rel="nofollow noopener"
+              href="{{ .link | safeURL }}">
+              <i class="{{ .icon }}"></i> {{ .action }}
+            </a>
+        {{ end }}
       {{ end }}
+
+      {{ partial "components/language-switcher" (dict "Context" . "Class" "ml-5 pl-2 py-1 dark:bg-darkmode-theme-light rounded") }}
+      {{ partial "components/theme-switcher" (dict "Class" "ml-5") }}
+
+
+      
     </div>
   </nav>
 </header>
