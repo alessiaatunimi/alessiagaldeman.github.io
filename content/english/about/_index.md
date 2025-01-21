@@ -15,7 +15,8 @@ draft: false
 
 
 {{< accordion "Organization" >}}
-
+- **Organiser** of [Software and Data for Complex Systems](https://sites.google.com/view/sdcs24/home) Satellite at CCS 2024
+- **Organiser** of [TENET](https://sites.google.com/view/tenet-netsci/home) satellite at NetSci 2025
 - **Co-founder** of MUSE-MI seminar series at University of Milan
 - **Collaborator** of [NetPlace](https://netplace.site "NetPlace's Homepage")
 - **Collaborator** of [CORE](https://complexity-core.github.io "CORE's Homepage")
@@ -24,26 +25,24 @@ draft: false
 
 {{< accordion "Editorial activites" >}}
 - **Guest editor** "[Evolution of Networks](https://link.springer.com/collections/jafdbbebcj)" special issue in Springer Nature Applied Network Science journal 
-- **Review for Journals** EPJ Data Science, Machine Learning journal, Multimedia Tools and Applications journal, Computer Science Review Journal, Applied Network Science,IEEE Transactions on Artificial Intelligence Journal, Journal of Complex Networks
-- **Review for Conferences** WebSci, ICWSM, NetSci, PerCom
-- **Review for Workshops** BRAIN workshop at PerCom, LIMBO workshop at ECML-PKDD 2023, [MLH](https://mlh2024.di.unito.it/home "workshop website") workshop at ECML-PKDD 2024
+- **Review for Journals:** EPJ Data Science, Machine Learning journal, Multimedia Tools and Applications journal, Computer Science Review Journal, Applied Network Science,IEEE Transactions on Artificial Intelligence Journal, Journal of Complex Networks
 
 {{< /accordion >}}
 
 {{< accordion "Roles in conferences" >}}
-
+- **Session chair** at ASONAM 2024
 - **Web chair** at the 12th/13th International Conference on Complex Networks and their Applications
 - **Web chair** at LIMBO workshop at ECML/PKDD 2023
-- **TPC member** at WebSci, NetSci, BRAIN workshop (PerCom), LIMBO workshop (ECML-PKDD 2023), [MLH](https://mlh2024.di.unito.it/home "workshop website") workshop (ECML-PKDD 2024)
+- **TPC member** at WebSci, NetSci, NetSciX, ICWSM, ASONAM, BRAIN workshop (PerCom), LIMBO workshop (ECML-PKDD 2023), [MLH](https://mlh2024.di.unito.it/home "workshop website") workshop (ECML-PKDD 2024), 
 
 {{< /accordion >}}
 
 {{< accordion "Awards" >}}
-- **Vasari Grant Winner** Research grant winner for Italian national project VASARI.
-- **Indaco Grant Winner** Grant of 2000 computing hours on Indaco HPC platform for project GERs_for_Web3.
-- **Best Lightning Presentation** Best Lightning Presentation at the 11th International Conference on Complex Networks and their Applications.
-- **Runner-up Bertalanffy Doctoral Student Award** Selected as one of the three nominees for the Bertalanffy Doctoral Student Award at the French Regional Conference on Complex Systems 2023.
-- **Runner-up Data Visualization Competition** Selected as one of the runner-up for the Data Visualization competition of the BUILD LAB at ITU Copenhagen.
+-**Vasari Grant Winner** Research grant winner for Italian national project VASARI.
+-**Indaco Grant Winner** Grant of 2000 computing hours on Indaco HPC platform for project GERs_for_Web3.
+-**Best Lightning Presentation** Best Lightning Presentation at the 11th International Conference on Complex Networks and their Applications.
+-**Runner-up Bertalanffy Doctoral Student Award** Selected as one of the three nominees for the Bertalanffy Doctoral Student Award at the French Regional Conference on Complex Systems 2023.
+-**Runner-up Data Visualization Competition** Selected as one of the runner-up for the Data Visualization competition of the BUILD LAB at ITU Copenhagen.
 {{< /accordion >}}
 ## Experience
 <br>
